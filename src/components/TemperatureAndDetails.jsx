@@ -52,14 +52,14 @@ function TemperatureAndDetails() {
         <UilSun />
         <p className='font-light'>
           High:
-          <span className='font-medium ml-1'>45</span>
+          <span className='font-medium ml-1'>45°</span>
         </p>
         <p className='font-light'>|</p>
 
         <UilSun />
         <p className='font-light'>
           Low:
-          <span className='font-medium ml-1'>40</span>
+          <span className='font-medium ml-1'>40°</span>
         </p>
         <p className='font-light'>|</p>
       </div>
